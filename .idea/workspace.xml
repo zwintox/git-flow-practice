@@ -14,10 +14,10 @@
     </leaf>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="452" />
-    <option name="y" value="106" />
-    <option name="width" value="1162" />
-    <option name="height" value="1047" />
+    <option name="x" value="451" />
+    <option name="y" value="105" />
+    <option name="width" value="1163" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -77,6 +77,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -85,9 +86,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
   </component>
 </project>
