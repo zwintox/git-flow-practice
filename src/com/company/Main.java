@@ -21,5 +21,7 @@ public class Main {
         Subtract subtract = new Subtract();
         subtract.Subtract(xvalue,yvalue);
 
+        Newfunction newfunction = new Newfunction();
+        newfunction.Newfunction(xvalue,yvalue);
     }
 }
