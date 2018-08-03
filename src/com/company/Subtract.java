@@ -2,7 +2,7 @@ package com.company;
 
 public class Subtract {
 
-    public int Subtract (int firstNumber, int secondNumber){
+    public float Subtract (float firstNumber, float secondNumber){
         return firstNumber - secondNumber;
     }
 

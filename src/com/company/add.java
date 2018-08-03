@@ -1,7 +1,7 @@
 package com.company;
 
 public class add {
-    public int add (int x, int y){
+    public float add (float x, float y){
         return x+y;
     }
 

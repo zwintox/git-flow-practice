@@ -2,7 +2,7 @@ package com.company;
 
 public class Newfunction {
 
-    Newfunction void Newfunction(int xvalue,int yvalue){
+    void Newfunction(int xvalue, int yvalue) {
         dividedBy delat = new dividedBy();
         delat.divided(xvalue, yvalue);
 
@@ -10,6 +10,6 @@ public class Newfunction {
         adderat.add(xvalue, yvalue);
 
         Subtract subtract = new Subtract();
-        subtract.Subtract(xvalue,yvalue);
+        subtract.Subtract(xvalue, yvalue);
     }
 }
