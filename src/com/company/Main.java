@@ -18,5 +18,8 @@ public class Main {
         add adderat = new add();
         adderat.add(xvalue, yvalue);
 
+        Subtract subtract = new Subtract();
+        subtract.Subtract(xvalue,yvalue);
+
     }
 }
